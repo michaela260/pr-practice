@@ -11,8 +11,7 @@ Person A should modify content here.
 Person B should modify content here.
 
 ## Person C:
-
-Person C should modify content here.
+I have been having a day today!! I can't wait for tmrw.
 
 ## Person D:
 
