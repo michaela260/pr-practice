@@ -9,6 +9,7 @@ Person A should modify content here.
 ## Person B:
 
 Person B should modify content here.
+i made a new secret file as instructed, i added it and committed it also.
 
 ## Person C:
 
