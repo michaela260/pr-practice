@@ -12,8 +12,7 @@ Person B should modify content here.
 i made a new secret file as instructed, i added it and committed it also.
 
 ## Person C:
-
-Person C should modify content here.
+I have been having a day today!! I can't wait for tmrw.
 
 ## Person D:
 
